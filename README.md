@@ -1,19 +1,27 @@
-# Subscription-Tracker-React
-Realizamos un proyecto en React Js, "Tracker Subscription" de plataformas de streaming.  
-
-**Tutorial**
-<br/>
-https://youtu.be/ermKvCAtiKA
-<br/><br/>
-**Demo**
-
+# 🖊 Subscription-Tracker-React
+Realizamos un proyecto en React Js, "Tracker Subscription" de plataformas de streaming. 
 ![image](https://drive.google.com/uc?export=view&id=1i_aBGgSfzxfbjahA8tQKW5iAILdvwllQ)
 
+## 🚀DEMO
+ [Deploy]()
 
-**Levantar el Proyecto**
+## 💻Tutorial
+[YouTube](https://youtu.be/ermKvCAtiKA)
 
-1\. **cd Subscription-Tracker-React**
-
-2\. **npm install**
-
-3\. **npm run dev**
+## 📦Getting Started
+```
+git clone https://github.com/garu2/Subscription-Tracker-React.git
+```
+```
+cd Subscription-Tracker-React
+```
+```
+npm install
+```
+```
+npm run dev
+```
+## ⚙Tecnologies
+* [Vitejs](https://vitejs.dev/)
+* [React 18](https://reactjs.org/)
+* [Vercel](https://vercel.com/)
